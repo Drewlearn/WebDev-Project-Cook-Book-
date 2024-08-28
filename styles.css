@@ -1,0 +1,205 @@
+body{
+    background-image: url(background3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#myH1{
+    text-align: center;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 50px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-family: "Rubik Marker Hatch",verdana;
+}
+
+
+#nav-container{
+    position: sticky;
+    top: 0px;
+}
+
+.dish-title{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    width: 300px;
+    margin-left: 90px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dish-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.dish-description{
+    font-size: 1.5em;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+}
+
+.ingredient-title{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    width: 200px;
+    margin-left: 140px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-style: italic;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingre-container{
+    display: flex;
+}
+
+.ing{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(182, 40, 40);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.instruction{
+    font-size: 30px;
+    color: rgb(182, 40, 40);
+    display:flex;
+    justify-content: center;
+
+}
+
+.ins-steps{
+    display: flex;
+    justify-content: center;
+}
+
+
+.label{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(196, 62, 62);
+}
+
+
+.ins-para{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(109, 35, 1);
+    background-color: antiquewhite;
+    width: 300px;
+    border: outset;
+    border-radius: 5px;  
+    text-align: center;
+    padding: 10px 10px;
+}
+/*ADOBO DISH1*/
+
+#dish2{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: 70px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+#dish-img2{
+    display: block;
+    margin-left: auto;
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#ingredient2{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(182, 40, 40);
+    border: 1px solid black;
+    border: outset;
+    background-color: antiquewhite;
+    width: 200px;
+    margin-left: 140px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-style: italic;
+    display: block;
+    margin-left: auto;
+    margin-right: 110px;
+}
+
+#ingre-container2{
+    display: block;
+    margin-left: 97em;
+}
+
+#ing2{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(182, 40, 40);
+
+}
+
+#instruction2{
+    font-size: 30px;
+    color: rgb(182, 40, 40);
+    display: block;
+    margin-left:  auto;
+
+}
+
+
+
+.label2{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(196, 62, 62);
+}
+
+.ins-para2{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(109, 35, 1);
+    background-color: antiquewhite;
+    width: 300px;
+    border: outset;
+    border-radius: 5px;
+}
